@@ -1,0 +1,6 @@
+
+{
+  "name": "davisshaver/leaky-paywall",
+  "description": "Composer wrapper for plugin",
+  "type": "wordpress-plugin"
+}
